@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_fiji_64-eng
+add_lunch_combo omni_fiji-eng
