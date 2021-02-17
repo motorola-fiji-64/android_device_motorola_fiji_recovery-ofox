@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/motorola/pokerp
+DEVICE_PATH := device/motorola/fiji
 
 # Architecture
 TARGET_ARCH := arm64
